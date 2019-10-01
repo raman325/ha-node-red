@@ -1,7 +1,7 @@
 ha-node-red
 ===========
 
-HomeAssistant Node RED flows
+My HomeAssistant Node RED flows
 
 ### About
 
